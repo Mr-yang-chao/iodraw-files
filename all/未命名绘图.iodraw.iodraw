@@ -32,10 +32,10 @@
           <mxGeometry x="503" y="58" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="48" width="780" height="372" as="geometry" />
+          <mxGeometry x="550" y="48" width="780" height="242" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-11" value="获得三维特征信息" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="577" y="83" width="709" height="119" as="geometry" />
+          <mxGeometry x="560" y="63" width="709" height="119" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-12" value="图像特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-11">
           <mxGeometry x="46" y="43" width="156" height="49" as="geometry" />
