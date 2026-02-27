@@ -75,7 +75,7 @@
           <mxGeometry x="253.61111111111114" y="46" width="158.8888888888889" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-23" value="IMU数据预处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="610" y="200" width="166" height="49" as="geometry" />
+          <mxGeometry x="610" y="219" width="166" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-24" value="自主定位信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2220" y="204" width="156" height="49" as="geometry" />
