@@ -26,10 +26,10 @@
           <mxGeometry x="35.50370572207085" y="40.33530201342282" width="128.8041416893733" height="34.076375838926175" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-8" value="非线性优化问题构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-6">
-          <mxGeometry x="205.58803118350903" y="40.33957055311271" width="181.6380952628045" height="34.07963719509373" as="geometry" />
+          <mxGeometry x="190" y="40.34" width="197.23" height="34.08" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-9" value="非线性优化问题求解" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-6">
-          <mxGeometry x="415.3097012668324" y="40.33957055311271" width="175.21014156379573" height="34.07963719509373" as="geometry" />
+          <mxGeometry x="400" y="40.34" width="190.52" height="34.08" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="48" width="690" height="182" as="geometry" />
