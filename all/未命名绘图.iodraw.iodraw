@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="XW086Z8nMHrtWm0R081K">
-    <mxGraphModel dx="2070" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1479" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,16 +20,16 @@
           <mxGeometry x="400" y="35.03" width="178.48" height="29.6" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-6" value="基于优化的后端方法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-1">
-          <mxGeometry x="30.003621755253402" y="139.99736211031174" width="626.0321384425217" height="103.621103117506" as="geometry" />
+          <mxGeometry x="50" y="140" width="606.04" height="103.62" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-7" value="状态变量定义" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-6">
-          <mxGeometry x="36.67490729295427" y="40.33573141486811" width="133.05315203955504" height="34.07673860911271" as="geometry" />
+          <mxGeometry x="35.50370572207085" y="40.33530201342282" width="128.8041416893733" height="34.076375838926175" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-8" value="非线性优化问题构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-6">
-          <mxGeometry x="212.37" y="40.34" width="187.63" height="34.08" as="geometry" />
+          <mxGeometry x="205.58803118350903" y="40.33957055311271" width="181.6380952628045" height="34.07963719509373" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-9" value="非线性优化问题求解" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-6">
-          <mxGeometry x="429.01" y="40.34" width="180.99" height="34.08" as="geometry" />
+          <mxGeometry x="415.3097012668324" y="40.33957055311271" width="175.21014156379573" height="34.07963719509373" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="48" width="690" height="182" as="geometry" />
