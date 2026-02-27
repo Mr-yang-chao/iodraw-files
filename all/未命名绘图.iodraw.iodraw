@@ -60,10 +60,10 @@
           <mxGeometry x="20" y="45" width="482" height="367" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-18" value="IMU模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="148" y="254" width="226" height="124" as="geometry" />
+          <mxGeometry x="40" y="254" width="334" height="124" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-19" value="滤除高频噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-18">
-          <mxGeometry x="43" y="46" width="156" height="49" as="geometry" />
+          <mxGeometry x="63.548672566371685" y="46" width="230.5486725663717" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-20" value="视觉传感器模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="45" y="80" width="432" height="124" as="geometry" />
