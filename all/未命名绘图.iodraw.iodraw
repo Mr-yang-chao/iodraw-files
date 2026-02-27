@@ -32,7 +32,7 @@
           <mxGeometry x="503" y="58" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="48" width="810" height="392" as="geometry" />
+          <mxGeometry x="550" y="48" width="780" height="392" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-11" value="获得三维特征信息" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="577" y="83" width="709" height="119" as="geometry" />
@@ -80,7 +80,7 @@
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-24" value="自主定位信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2220" y="204" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="BqeooQZ6iRHhbTmpM0CB-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="BqeooQZ6iRHhbTmpM0CB-20" target="BqeooQZ6iRHhbTmpM0CB-11">
+        <mxCell id="BqeooQZ6iRHhbTmpM0CB-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.49;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqeooQZ6iRHhbTmpM0CB-17" target="BqeooQZ6iRHhbTmpM0CB-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
