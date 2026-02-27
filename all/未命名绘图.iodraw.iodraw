@@ -74,6 +74,9 @@
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-22" value="双目曝光同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="BqeooQZ6iRHhbTmpM0CB-20">
           <mxGeometry x="253.61111111111114" y="46" width="158.8888888888889" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="BqeooQZ6iRHhbTmpM0CB-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BqeooQZ6iRHhbTmpM0CB-23" target="BqeooQZ6iRHhbTmpM0CB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-23" value="IMU数据预处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="610" y="219" width="166" height="49" as="geometry" />
         </mxCell>
