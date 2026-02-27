@@ -32,7 +32,7 @@
           <mxGeometry x="503.6217552533993" y="53.8273381294964" width="204.2521631644005" height="45.474820143884884" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="48" width="780" height="242" as="geometry" />
+          <mxGeometry x="550" y="48" width="690" height="232" as="geometry" />
         </mxCell>
         <mxCell id="BqeooQZ6iRHhbTmpM0CB-11" value="获得三维特征信息" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="560" y="63" width="709" height="119" as="geometry" />
