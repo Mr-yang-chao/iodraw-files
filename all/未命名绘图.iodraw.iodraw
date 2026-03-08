@@ -1,0 +1,162 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="UZr7RzoR9hbkCQCNvKFH">
+    <mxGraphModel dx="1035" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-2" value="5. 系统集成与海上小目标探测应用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="863" width="314" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-3" value="4. 小样本跨域稳健迁移与对齐机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="682" width="651" height="497" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-4" value="3. 拓扑一致性驱动的软关联融合机制 (CCGM模块)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="518" width="370" height="661" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-5" value="2. 跨模态不变特征解耦与统一表征 (LCFNet网络)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1416" y="354" width="450" height="643" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-6" value="1. 多源异构数据与预处理 (物理异质/时空异步)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1389" y="170" width="545" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-7" value="SAR 影像数据&#xa;相干斑/高对比度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1424" y="204" width="180" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-8" value="光电 影像数据&#xa;高分辨率/易受光照云雾影响" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="195" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-9" value="浅层特异性编码&#xa;非共享权重/物理噪声剥离" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1524" y="379" width="244" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-10" value="可变形卷积 DCNv4&#xa;非刚性几何初对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1613" y="543" width="191" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-11" value="深层共享高维解码&#xa;共享映射/跨模态对比学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="716" width="244" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-12" value="小目标敏感增强&#xa;多尺度FPN + CBAM注意力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1588" y="897" width="241" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-13" value="局部互相关代价矩阵&#xa;几何-语义拓扑一致性度量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="543" width="242" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-14" value="不确定性感知动态门控&#xa;模态退化评估/自适应权重分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="707" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-15" value="跨模态特征软融合&#xa;容忍空间错位与遮挡缺失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="897" width="236" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-16" value="距离-概率决策级融合&#xa;NWD距离 + 贝叶斯后验边界框修正" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1129" y="1070" width="220" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-17" value="潜变量空间特征插值&#xa;通道级重组/内生伪特征增广" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="397" y="707" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-18" value="特征循环一致性约束&#xa;保持特征流形平滑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="897" width="204" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-19" value="域对抗去偏学习&#xa;梯度反转GRL/提取域不变特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="714" y="888" width="257" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-20" value="极小样本冷启动微调&#xa;N-shot目标域平滑演进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="593" y="1079" width="218" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-21" value="边缘端部署&#xa;NVIDIA Jetson等算力受限平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="68" y="888" width="219" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-22" value="海防预警联合验证&#xa;抗时空失配/高鲁棒协同探测系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1070" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-9" target="pDof15Jo9pe8qPpGH6ut-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1708" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-10" target="pDof15Jo9pe8qPpGH6ut-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-11" target="pDof15Jo9pe8qPpGH6ut-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-13" target="pDof15Jo9pe8qPpGH6ut-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1239" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-14" target="pDof15Jo9pe8qPpGH6ut-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-15" target="pDof15Jo9pe8qPpGH6ut-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-17" target="pDof15Jo9pe8qPpGH6ut-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="827" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-19" target="pDof15Jo9pe8qPpGH6ut-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="842" y="1033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-31" value="联合优化" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.23;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-18" target="pDof15Jo9pe8qPpGH6ut-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="1033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-21" target="pDof15Jo9pe8qPpGH6ut-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-33" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-7" target="pDof15Jo9pe8qPpGH6ut-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1515" y="354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-34" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-8" target="pDof15Jo9pe8qPpGH6ut-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1777" y="354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-35" value="统一特征基座" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-5" target="pDof15Jo9pe8qPpGH6ut-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-36" value="融合特征反馈/标签" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-4" target="pDof15Jo9pe8qPpGH6ut-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-37" value="模型联合优化部署" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;rounded=0;" edge="1" parent="1" source="pDof15Jo9pe8qPpGH6ut-3" target="pDof15Jo9pe8qPpGH6ut-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
