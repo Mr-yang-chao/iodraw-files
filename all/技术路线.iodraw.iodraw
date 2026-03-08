@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pDof15Jo9pe8qPpGH6ut-38" value="\begin{align*}&#xa;\begin{cases}&#xa;\frac{1}{2} &amp; \frac{1}{2} \\&#xa;\frac{1}{2} &amp; \frac{1}{2} \\&#xa;\frac{1}{2} &amp; \frac{1}{2} \\&#xa;\frac{1}{2} &amp; \frac{1}{2} \\&#xa;\end{cases}&#xa;\end{align*}" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140" y="150" width="160" height="140" as="geometry" />
+        <mxCell id="pDof15Jo9pe8qPpGH6ut-39" value="\begin{align*}&#xa;\begin{cases}&#xa;\frac{1}{2} &amp; \frac{1}{2} \\&#xa;\frac{1}{2} &amp; \frac{1}{2} \\&#xa;\frac{1}{2} &amp; \frac{1}{2} \\&#xa;\frac{1}{2} &amp; \frac{1}{2} \\&#xa;\end{cases}&#xa;\end{align*}" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
